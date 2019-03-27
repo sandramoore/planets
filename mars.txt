@@ -1,8 +1,15 @@
 cold and dry but everything is my favourite colour 
 the two moons may be a problem for wolfman 
 but the mummy will appreciate the lack of humidity
+<<<<<<< HEAD
+This line added my Richie ^^v
+=======
 
 
 
 Sandra Moore is the owner of you all 
+<<<<<<< HEAD
 Anji here the great collabrator.
+=======
+>>>>>>> 8ac8fba6cfb042006b319d03c3256dfc0b698917
+>>>>>>> 54a74be9e083e728943550a32828a2acd0b351ac
