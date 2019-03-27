@@ -2,5 +2,9 @@ It is so a planet!
 Hiii!!!!!! This is anji
 
 What can point in every direction but can't reach the destination by itself???
+<<<<<<< HEAD
 The finger ^^v
 
+=======
+pass to next collabrator.     anji hehehe
+>>>>>>> e2d991ea112afdc2f7968294d62f448915393d1b
